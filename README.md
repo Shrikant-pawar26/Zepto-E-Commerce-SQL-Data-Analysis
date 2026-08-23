@@ -6,7 +6,7 @@ business insights related to product pricing, discounts, inventory, stock availa
 # Dataset Used
 - <a href="https://github.com/Shrikant-pawar26/Zepto-E-Commerce-SQL-Data-Analysis/blob/main/zepto_v2.csv">Dataset</a>
 
-##Key Work:
+## Key Work:
 
 - Explored and cleaned raw e-commerce inventory data.
 - Analyzed MRP, selling prices, discounts, stock availability, and product -------quantities.
@@ -16,4 +16,10 @@ business insights related to product pricing, discounts, inventory, stock availa
 - Used SQL techniques including GROUP BY, JOINs, subqueries, CTEs, CASE - ------- statements, and aggregate functions to generate business insights.
 
 ## Project Process
-- Collected and imported the dataset into PostgreSQL, performed data cleaning and exploration, analyzed pricing, discounts, inventory, and stock availability using SQL, and derived key business insights.
+- Data Collection – Collected Zepto inventory dataset.
+- Database Setup – Created tables in PostgreSQL.
+- Data Import – Imported CSV data into PostgreSQL.
+- Data Cleaning – Handled missing, duplicate, and invalid data.
+- Data Analysis – Analyzed pricing, discounts, inventory, and stock.
+- SQL Queries – Used aggregations, CTEs, subqueries, and CASE statements.
+- Business Insights – Identified key product and category-level trends.
